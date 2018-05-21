@@ -12,7 +12,7 @@ http://localhost:8083/admin/hello/titi
 7. Add Swagger annotation to generate doc: https://www.javacodegeeks.com/2017/09/integrating-swagger-spring-boot-rest-api.html
 8. Integrate OAuth for admin: https://blog.napagoda.com/2017/10/secure-spring-boot-rest-api-using-basic.html
 Issue with password encoding: https://stackoverflow.com/questions/46999940/spring-boot-passwordencoder-error
-
+9. Add h2 in memory db: http://www.devglan.com/spring-boot/spring-boot-h2-database-example
 
 # swagger docs
 http://localhost:8083/v2/api-docs
