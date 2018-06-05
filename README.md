@@ -16,6 +16,5 @@ Issue with password encoding: https://stackoverflow.com/questions/46999940/sprin
 
 # swagger docs
 http://localhost:8083/v2/api-docs
-
 http://localhost:8083/swagger-ui.html
 

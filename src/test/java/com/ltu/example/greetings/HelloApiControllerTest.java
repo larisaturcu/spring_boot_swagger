@@ -32,7 +32,7 @@ public class HelloApiControllerTest {
 	}
 	
 	@Test
-	private void getHelloUser() throws Exception {
+	public void getHelloUser() throws Exception {
 		Greeting response = new Greeting("titi", "Hello titi");
 		ObjectMapper mapper = new ObjectMapper();
 		
