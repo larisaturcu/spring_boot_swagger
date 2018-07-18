@@ -19,7 +19,6 @@ http://localhost:8083/v2/api-docs
 http://localhost:8083/swagger-ui.html
 
 # dockerize the content
-
-C
-C
+mvn install dockerfile:build
+docker run -p 8083:8083 -t springio/greeting:latest
 #
